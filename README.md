@@ -13,8 +13,8 @@
    Suivez les instructions ci-dessous pour cloner et lancer l'application.
 
    ```bash
-   git clone 
-   cd gesture
+   git clone https://github.com/flols/gesture_flutter.git
+   cd gesture_flutter
    flutter run
 
 3. **Utilisation du Redimensionnement de Texte**
